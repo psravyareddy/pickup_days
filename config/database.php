@@ -2,9 +2,9 @@
 class Database{
 
     private $host="oceanus.cse.buffalo.edu";
-    private $dbUsername="shravyap";
-    private $dbPassword="50337027";
-    private $dbName="trueerecycle";
+    private $dbUsername="********";
+    private $dbPassword="********";
+    private $dbName="***********";
     public $conn;
 
     public function getConnection(){
